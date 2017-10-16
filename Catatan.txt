@@ -1,0 +1,10 @@
+Untuk sandi morse nya, menggunakan buzzer. untuk menyalakan buzzernya cukup menggunakan kondisi high atau low saja.
+Bisa juga kalau mau lebih keren bisa pake library tone.
+untuk panjang nadanya disesuaikan dan disepakati oleh anda sendiri sebagai maker saja.
+contoh:
+untuk titik (.) buzzer menyala selama 500 ms
+untuk strip (-) buzzer menyala selama 1000 ms
+
+selamat mencoba dan berkreasi
+
+Salam maker
